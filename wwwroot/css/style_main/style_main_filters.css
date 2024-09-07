@@ -1,0 +1,78 @@
+﻿:root {
+	--color-1: #FB874F;
+	--color-2: #FAAC6D;
+	--color-3: #040D3A;
+	--color-4: #7B5A94;
+	--color-5: #B287A9;
+	--color-6: #422E58;
+}
+
+@font-face {
+	font-family: 'Comfortaa';
+	src: url('Comfortaa.ttf') format('truetype');
+}
+
+#filters {
+	display: flex;
+	margin-top: 50px;
+}
+
+.filter {
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.filter p {
+	font-family: 'Comfortaa';
+	text-align: center;
+	font-size: 20px;
+	color: var(--color-2);
+}
+
+.filter_content {
+	display: inline-block;
+}
+
+.filter_element {
+	display: block;
+	background-color: transparent;
+	font-family: 'Comfortaa';
+	text-align: center;
+	font-size: 14px;
+	color: var(--color-2);
+	height: 20px;
+	width: 300px;
+	margin-top: 10px;
+	padding: 10px;
+	border: 2px solid var(--color-2);
+	border-radius: 7px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#sorting_directions {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 600px;
+	margin: 60px auto;
+}
+
+.sorting_direction {
+	background-color: transparent;
+	font-family: 'Comfortaa';
+	text-align: center;
+	font-size: 14px;
+	color: var(--color-2);
+	width: 300px;
+	padding: 10px;
+	border: 2px solid var(--color-2);
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+.selected {
+	background-color: var(--color-2);
+	color: var(--color-3);
+}

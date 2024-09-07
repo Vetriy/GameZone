@@ -1,0 +1,166 @@
+﻿@font-face {
+	font-family: 'Comfortaa';
+	src: url('Comfortaa.ttf') format('truetype');
+}
+
+#add_slote_machine {
+	display: none;
+	position: fixed;
+	background: white;
+	top: 50%;
+	left: 50%;
+	width: 500px;
+	height: 350px;
+	transform: translate(-50%, -50%);
+	padding: 15px 40px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+#add_slote_machine_header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 15px;
+}
+
+#add_slote_machine_header p {
+	font-family: 'Comfortaa';
+	font-size: 18px;
+	color: black;
+}
+
+#close_add_slote_machine_button {
+	background-color: rgb(255, 230, 230);
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: rgb(204, 68, 68);
+	height: 30px;
+	width: 30px;
+	border: 1px solid rgb(204, 68, 68);
+	border-radius: 25%;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#close_add_slote_machine_button:hover {
+	background-color: rgb(204, 68, 68);
+	color: white;
+}
+
+#close_add_slote_machine_button:active {
+	background-color: rgb(148, 13, 13);
+	border-color: rgb(148, 13, 13);
+	color: white;
+}
+
+#add_slote_machine_container {
+	overflow: auto;
+	height: 200px;
+}
+
+.add_slote_machine_meaning p {
+	font-family: 'Comfortaa';
+	font-size: 12px;
+	color: black;
+	margin-bottom: 10px;
+}
+
+.add_slote_machine_meaning input[type="text"],
+.add_slote_machine_meaning input[type="number"],
+.add_slote_machine_meaning input[type="date"],
+.add_slote_machine_meaning select,
+.add_slote_machine_meaning textarea {
+	background-color: #f8f8f8;
+	font-family: 'Comfortaa';
+	font-size: 12px;
+	color: #333;
+	width: 90%;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.add_slote_machine_meaning textarea {
+	height: 60px;
+	resize: none;
+}
+
+.add_slote_machine_meaning select {
+	width: 75%;
+}
+
+#add_slote_machine_rate_container {
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+#add_slote_machine_rate {
+	-webkit-appearance: none;
+	background: #ddd;
+	width: 70%;
+	height: 3px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+}
+
+#add_slote_machine_rate::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	background: #664AFF;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	border: 1px solid #664AFF;
+	cursor: pointer;
+}
+
+#add_slote_machine_rate_value {
+	font-family: 'Comfortaa';
+	font-size: 15px;
+	color: #664AFF;
+	margin-left: 40px;
+}
+
+#error_empty_name,
+#error_repeated_name,
+#error_empty_description,
+#error_empty_cost,
+#error_empty_date,
+#error_little_date,
+#error_big_date,
+#error_left_date,
+#error_right_date {
+	display: none;
+	font-family: 'Comfortaa';
+	font-size: 12px;
+	color: #BD0606;
+	margin-top: 5px;
+}
+
+#add_slote_machine_button {
+	display: block;
+	background-color: white;
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: black;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	margin: 30px auto;
+	border: 2px solid rgb(50, 50, 50);
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#add_slote_machine_button:hover {
+	background-color: rgb(50, 50, 50);
+	color: white;
+}
+
+#add_slote_machine_button:active {
+	background-color: rgb(70, 70, 70);
+	transform: translateY(2px);
+	color: white;
+}

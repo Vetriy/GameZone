@@ -1,0 +1,27 @@
+﻿<div id="edit_date">
+    <div id="edit_date_header">
+        <p></p>
+        <button id="close_edit_date_button">X</button>
+    </div>
+    <div class="edit_date_meaning">
+        <p>Количество посещений</p>
+        <input type="number" id="edit_date_cost" onkeypress="return (event.charCode == 8 || event.charCode == 0 || event.charCode == 13) ? null : event.charCode >= 48 && event.charCode <= 57" oninput="myFunction2()" />
+
+        <script>
+            function myFunction2() {
+                var inputValue = document.getElementById("edit_date_cost").value;
+                if (inputValue.length > 5) {
+                    document.getElementById("edit_date_cost").value = inputValue.slice(0, 5);
+                }
+                if (inputValue.length > 0) {
+                    if (parseInt(inputValue) < 0) {
+                        document.getElementById("edit_date_cost").value = 0;
+                    }
+                }
+            }
+        </script>
+
+        <label id="error_empty_cost_date">Стоимость не может быть пустой</label>
+    </div>
+    <button id="edit_date_button">Обновить</button>
+</div>

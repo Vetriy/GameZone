@@ -1,0 +1,41 @@
+﻿<div id="statistic">
+    <div id="statistic_header">
+        <p>Статистика прибыли за неделю</p>
+        <button id="close_statistics_button">X</button>
+    </div>
+    <div id="statistic_canvas_container">
+        <div id="statistic_canvas_info">
+            <label id="statistic_canvas_value_1">500000</label>
+            <label id="statistic_canvas_value_2">400000</label>
+            <label id="statistic_canvas_value_3">300000</label>
+            <label id="statistic_canvas_value_4">200000</label>
+            <label id="statistic_canvas_value_5">100000</label>
+        </div>
+        <canvas id="statistic_canvas"></canvas>
+    </div>
+    <div id="statistic_types">
+        <label class="statistic_type" id="day_1"></label>
+        <label class="statistic_type" id="day_2"></label>
+        <label class="statistic_type" id="day_3"></label>
+        <label class="statistic_type" id="day_4"></label>
+        <label class="statistic_type" id="day_5"></label>
+        <label class="statistic_type" id="day_6"></label>
+        <label class="statistic_type" id="day_7"></label>
+    </div>
+    <div id="statistic_ui">
+        <svg class="statistic_arrow" id="statistics_left_arrow" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <path d="m47.31 62h-10.62a2 2 0 0 1 -1.63-.84l-20-28a2 2 0 0 1 0-2.32l20-28a2 2 0 0 1 1.63-.84h10.62a2 2 0 0 1 1.69 3.09l-17.55 26.91 17.55 26.91a2 2 0 0 1 -1.69 3.09zm-9.6-4h5.9l-16.22-24.91a2 2 0 0 1 0-2.18l16.23-24.91h-5.9l-18.57 26z" />
+            </g>
+        </svg>
+        <input type="date" max="2100-01-01" id="statistic_ui_time">
+        <button id="statistic_ui_update_button">Найти</button>
+        <svg class="statistic_arrow" id="statistics_right_arrow" viewbox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="transform:rotate(180deg)">
+            <g>
+                <path d="m47.31 62h-10.62a2 2 0 0 1 -1.63-.84l-20-28a2 2 0 0 1 0-2.32l20-28a2 2 0 0 1 1.63-.84h10.62a2 2 0 0 1 1.69 3.09l-17.55 26.91 17.55 26.91a2 2 0 0 1 -1.69 3.09zm-9.6-4h5.9l-16.22-24.91a2 2 0 0 1 0-2.18l16.23-24.91h-5.9l-18.57 26z">
+            </g>
+        </svg>
+    </div>
+    <label id="error_left_date">Достигнута минимальная дата</label>
+    <label id="error_right_date">Достигнута максимальная дата</label>
+</div>

@@ -1,0 +1,30 @@
+﻿<div id="diagram">
+    <div id="diagram_header">
+        <p>Статистика посещаемости игровых автоматов</p>
+        <button id="close_diagrams_button">X</button>
+    </div>
+
+    <div id="diagram_canvas_container">
+        <div id="diagram_canvas_info">
+            <label id="diagram_canvas_value_1"></label>
+            <label id="diagram_canvas_value_2"></label>
+            <label id="diagram_canvas_value_3"></label>
+            <label id="diagram_canvas_value_4"></label>
+            <label id="diagram_canvas_value_5"></label>
+        </div>
+        <canvas id="diagram_canvas"></canvas>
+    </div>
+    <div id="diagram_types">
+        <label class="diagram_type" id="diagram_type_1">Спорт</label>
+        <label class="diagram_type" id="diagram_type_2">Гонки</label>
+        <label class="diagram_type" id="diagram_type_3">Стрельба</label>
+        <label class="diagram_type" id="diagram_type_4">Автоматы</label>
+    </div>
+    <div id="diagram_ui">
+        <p class="diagram_ui_period">c</p>
+        <input type="date" max="2100-01-01" id="diagram_ui_start_time">
+        <p class="diagram_ui_period">по</p>
+        <input type="date" max="2100-01-01" id="diagram_ui_end_time">
+        <button id="diagram_ui_update_button">Обновить</button>
+    </div>
+</div>

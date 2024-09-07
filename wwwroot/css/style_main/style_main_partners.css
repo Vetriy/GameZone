@@ -1,0 +1,66 @@
+﻿:root {
+	--color-1: #FB874F;
+	--color-2: #FAAC6D;
+	--color-3: #040D3A;
+	--color-4: #7B5A94;
+	--color-5: #B287A9;
+	--color-6: #422E58;
+}
+
+@font-face {
+	font-family: 'Comfortaa';
+	src: url('Comfortaa.ttf') format('truetype');
+}
+
+#partners {
+	text-align: center;
+	margin-top: 80px;
+}
+
+#partners > p {
+	font-family: 'Comfortaa';
+	font-size: 20px;
+	color: white;
+	margin: 0;
+	user-select: none;
+}
+
+#partners_content {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+#partners_content svg {
+	height: 40px;
+	fill: white;
+	margin: auto 30px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#partners_content svg:hover {
+	fill: var(--color-5);
+}
+
+#partners_content svg:active {
+	fill: var(--color-4);
+}
+
+#partner {
+	height: 170px;
+	width: 140px;
+}
+
+#partner_logo {
+	height: 120px;
+	user-select: none;
+}
+
+#partner_name {
+	font-family: 'Comfortaa';
+	font-size: 11px;
+	color: white;
+	user-select: none;
+}

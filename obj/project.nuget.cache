@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AD/jGdOW7oaBX4NSEbvBHD8JPGee9TNv6e3tMdgsfLbXnMnq9DvK3WT6Ee9sDo7/uL4vreA8qlbQMgSSYc+t6w==",
+  "success": true,
+  "projectFilePath": "/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/GameZone.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktoria/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/viktoria/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/viktoria/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

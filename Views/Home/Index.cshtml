@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<header>
+    <div id="logo">
+        <img src="content/logo.png">
+        <p>GameZone</p>
+    </div>
+    <p>gamezone.lucky@gmail.com</p>
+    <p>8 (911) 764-53-12</p>
+</header>
+
+<main>
+    <div id="content">
+
+        <p id="title">Хранилище наших развлечений</p>
+        <p id="description">
+            Здесь собрана вся информация о наших игровых автоматах по всему миру.
+        </p>
+
+        <div id="filters">
+            <div class="filter">
+                <p>Виды игровых автоматов</p>
+                <div class="filter_content">
+                    <label id="checkbox_1" class="filter_element selected">Спорт</label>
+                    <label id="checkbox_2" class="filter_element selected">Гонки</label>
+                    <label id="checkbox_3" class="filter_element selected">Стрельба</label>
+                    <label id="checkbox_4" class="filter_element selected">Автоматы</label>
+                </div>
+            </div>
+
+            <div class="filter">
+                <p>Тип сортировки</p>
+                <div class="filter_content">
+                    <label id="radio_1" class="filter_element selected">По названию автомата</label>
+                    <label id="radio_2" class="filter_element">По стоимости сеанса</label>
+                    <label id="radio_3" class="filter_element">По дате создания</label>
+                    <label id="radio_4" class="filter_element">По оценке</label>
+                </div>
+            </div>
+        </div>
+
+        <div id="sorting_directions">
+            <label id="increasing_sorting" class="sorting_direction selected">По возрастанию</label>
+            <label id="decreasing_sorting" class="sorting_direction">По убыванию</label>
+        </div>
+
+        <button id="update_button">Обновить данные</button>
+
+        <div id="slot_machines"></div>
+
+        <button id="reset_all_button">Восстановить тестовые данные</button>
+        <button id="add_slot_machine_button">Добавить игровой автомат</button>
+        <button id="show_diagrams_button">Открыть статистику</button>
+
+        <div id="partners">
+            <p>Наши партнеры</p>
+            <div id="partners_content">
+                <svg id="partners_left_arrow" enable-background="new 0 0 64 64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m18.5 32 27 27-6.7-27 6.7-27z"></path>
+                </svg>
+                <div id="partner">
+                    <img id="partner_logo" src="content/дельфин.png">
+                    <p id="partner_name">ООО "Дельфинчик"</p>
+                </div>
+                <svg id="partners_right_arrow" enable-background="new 0 0 64 64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m45.5 32-27-27 6.7 27-6.7 27z"></path>
+                </svg>
+            </div>
+        </div>
+
+    </div>
+</main>
+
+<footer>
+    <p id="copyright">Дата создания игрового центра: 6 марта 1995 года<br />© Ни одно из прав не защищено</p>
+</footer>
+
+<div id="dark_background"></div>
+<partial name="Graphs.cshtml" />
+<partial name="AddSlotMachine.cshtml" />
+<partial name="Diagram.cshtml" />
+<partial name="EditDate.cshtml" />

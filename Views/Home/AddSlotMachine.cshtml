@@ -1,0 +1,66 @@
+﻿<div id="add_slote_machine">
+    <div id="add_slote_machine_header">
+        <p></p>
+        <button id="close_add_slote_machine_button">X</button>
+    </div>
+    <div id="add_slote_machine_container">
+        <div class="add_slote_machine_meaning">
+            <p>Название</p>
+            <input type="text" maxlength="30" id="add_slote_machine_name" />
+            <label id="error_empty_name">Имя не может быть пустым</label>
+            <label id="error_repeated_name">Такое имя уже существует</label>
+        </div>
+        <div class="add_slote_machine_meaning">
+            <p>Тип автомата</p>
+            <select id="add_slote_machine_type">
+                <option value="Sport">Спорт</option>
+                <option value="Race">Гонки</option>
+                <option value="Shoot">Стрельба</option>
+                <option value="Automat">Автоматы</option>
+            </select>
+        </div>
+        <div class="add_slote_machine_meaning">
+            <p>Описание</p>
+            <textarea maxlength="200" id="add_slote_machine_description"></textarea>
+            <label id="error_empty_description">Описание не может быть пустым</label>
+        </div>
+        <div class="add_slote_machine_meaning">
+            <p>Стоимость одного сеанса</p>
+            <input type="number" id="add_slote_machine_cost" onkeypress="return (event.charCode == 8 || event.charCode == 0 || event.charCode == 13) ? null : event.charCode >= 48 && event.charCode <= 57" oninput="myFunction()" />
+
+            <script>
+                function myFunction() {
+                    console.log(1);
+                    var inputValue = document.getElementById("add_slote_machine_cost").value;
+                    if (inputValue.length > 7) {
+                        console.log(2);
+                        document.getElementById("add_slote_machine_cost").value = inputValue.slice(0, 7);
+                    }
+                    if (inputValue.length > 0) {
+                        console.log(3);
+                        if (parseInt(inputValue) < 0) {
+                            document.getElementById("add_slote_machine_cost").value = 0;
+                        }
+                    }
+                }
+            </script>
+
+            <label id="error_empty_cost">Стоимость не может быть пустой</label>
+        </div>
+        <div class="add_slote_machine_meaning">
+            <p>Дата создания</p>
+            <input type="date" max="2100-01-01" id="add_slote_machine_date" />
+            <label id="error_empty_date">Дата создания не может быть пустой</label>
+            <label id="error_little_date">Дата создания не может быть раньше даты создания игрового центра</label>
+            <label id="error_big_date">Дата создания не может быть позже сегодняшней</label>
+        </div>
+        <div class="add_slote_machine_meaning">
+            <p>Оценка</p>
+            <div id="add_slote_machine_rate_container">
+                <input type="range" min="0" max="10" step="0.1" id="add_slote_machine_rate" />
+                <label id="add_slote_machine_rate_value"></label>
+            </div>
+        </div>
+    </div>
+    <button id="add_slote_machine_button">Добавить</button>
+</div>

@@ -1,0 +1,114 @@
+﻿:root {
+	--color-1: #FB874F;
+	--color-2: #FAAC6D;
+	--color-3: #040D3A;
+	--color-4: #7B5A94;
+	--color-5: #B287A9;
+	--color-6: #422E58;
+}
+
+@font-face {
+	font-family: 'Comfortaa';
+	src: url('Comfortaa.ttf') format('truetype');
+}
+
+#update_button {
+	display: block;
+	background-color: var(--color-2);
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: black;
+	text-transform: uppercase;
+	margin: 70px auto;
+	padding: 10px 20px;
+	border: 2px solid var(--color-1);
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#update_button:hover {
+	background-color: var(--color-1);
+	color: white;
+}
+
+#update_button:active {
+	background-color: #eb7033;
+	border-color: #eb7033;
+	transform: translateY(2px);
+}
+
+#add_slot_machine_button {
+	display: block;
+	background-color: var(--color-4);
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: black;
+	text-transform: uppercase;
+	margin: 40px auto;
+	padding: 10px 20px;
+	border: 2px solid var(--color-6);
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#add_slot_machine_button:hover {
+	background-color: var(--color-6);
+	color: white;
+}
+
+#add_slot_machine_button:active {
+	background-color: var(--color-3);
+	transform: translateY(2px);
+}
+
+#show_diagrams_button {
+	display: block;
+	background-color: #2086E5;
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: black;
+	text-transform: uppercase;
+	margin: 0 auto;
+	margin-bottom: 120px;
+	padding: 10px 20px;
+	border: 2px solid #115EA6;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#show_diagrams_button:hover {
+	background-color: #115EA6;
+	color: white;
+}
+
+#show_diagrams_button:active {
+	background-color: #3577B5;
+	border-color: #3577B5;
+	transform: translateY(2px);
+}
+
+#reset_all_button {
+	display: none;
+	background-color: #CD5C5C;
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	color: black;
+	text-transform: uppercase;
+	margin: 0 auto;
+	margin-bottom: 120px;
+	padding: 10px 20px;
+	border: 2px solid #A14747;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+#reset_all_button:hover {
+	background-color: #B24747;
+	color: white;
+}
+
+#reset_all_button:active {
+	background-color: #C04B4B;
+	border-color: #C04B4B;
+	transform: translateY(2px);
+}

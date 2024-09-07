@@ -1,0 +1,475 @@
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Downloads/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Downloads/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/GC/Без названия/Casino/GameZone_3.0/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.1/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.2/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.3/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.4/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.5/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Casino/Без названия/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Проект/Gameee/Casino/GameZone_3.6/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/krisk/Документы/Университет/ООП C#/GameZone/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.exe
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+C:/Users/Artem/Desktop/лалала/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.Development.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/appsettings.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.staticwebassets.runtime.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.deps.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.runtimeconfig.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.dll
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/bin/Debug/net8.0/Npgsql.dll
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.AssemblyReference.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfoInputs.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.AssemblyInfo.cs
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.CoreCompileInputs.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.MvcApplicationPartsAssemblyInfo.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.RazorAssemblyInfo.cs
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.sourcelink.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.build.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.development.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.GameZone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.build.GameZone.props
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.GameZone.props
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.GameZone.props
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/bundle/GameZone.styles.css
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/scopedcss/projectbundle/GameZone.bundle.scp.css
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.csproj.Up2Date
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.dll
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/refint/GameZone.dll
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.pdb
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/GameZone.genruntimeconfig.cache
+/Users/viktoria/Downloads/Casino/GameZone_END/GameZone/GameZone/obj/Debug/net8.0/ref/GameZone.dll
